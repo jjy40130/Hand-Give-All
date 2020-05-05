@@ -1,0 +1,6 @@
+name: HGA
+main: com.WolLu.HandGiveAll.MainClass
+version: 1.0
+commands:
+  hga:
+    description: Hand Give All Plugin Command
